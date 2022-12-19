@@ -830,11 +830,13 @@ h3.my-profession
     {
         flex: 0 0 100%;
         max-width: 100%;
+        max-height: 100%;
     }
     .home .home-img
     {
         flex: 0 0 100%;
         max-width: 100%;
+        max-height: 100%;
     }
 }
 
