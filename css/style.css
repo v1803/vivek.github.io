@@ -840,6 +840,7 @@ h3.my-profession
 
 @media (max-width:767px)
 {
+    .home .home-img,
     .contact .contact-form .col-6,
     .contact .contact-info-item,
     .portfolio .portfolio-item,
