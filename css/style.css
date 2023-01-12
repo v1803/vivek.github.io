@@ -853,4 +853,7 @@ h3.my-profession
         flex: 0 0 100%;
         max-width: 100%;
     }
+    .home-img::after{
+        right: -13px !important;
+    }
 }
